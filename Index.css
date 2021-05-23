@@ -3,3 +3,6 @@
   max-width: 800px;
   border: 2px solid #000;
 }
+.block p{
+  background-color: yellow;
+}
